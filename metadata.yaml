@@ -1,5 +1,8 @@
 _repo: Remarks-on-a-passage-from-the-river-Balise-in-the-bay-of-Honduras-to-Merida_74378
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74378-h/images/cover.jpg
 creator:
   author:
     agent_name: Cook, Martha Walker
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1475'
     url: http://www.gutenberg.org/2009/agents/1475
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74378#Remarks-on-a-passage-from-the-river-Balise-in-the-bay-of-Honduras-to-Merida
 gutenberg_issued: '2024-09-05'
 gutenberg_type: Text
 identifiers:
